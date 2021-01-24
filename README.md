@@ -5,5 +5,5 @@ Spectrograms and MFCC as feature extractors<br>
 acoustic features<br>
 • Plays a vital role in human-machine interfaces (HMI) and essential in making an aware AI, but for
 better classification other factors such as age should also be considered<br><br>
-Please look at the report for more details. <br><br>
+Please look at the report for more details. The project presentation video will also tell you about the project in short. <br><br>
 Collaborator: Vaibhav Sundharam (https://github.com/vaibhavsundharam/Speech-Emotion-Analysis)
